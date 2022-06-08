@@ -1,0 +1,17 @@
+Simbolo,Nome,NumeroAtomico,Linha,Coluna,EstadoFisico
+Na,Sódio,11,3,1,Sólido
+Fe,Ferro,26,4,8,Sólido
+W,Tungstênio,74,6,6,Sólido
+Cl,Cloro,17,3,17,Gás
+F,Flúor,9,2,17,Gás
+Xe,Xenônio,54,5,18,Gás
+Ta,Tântalo,73,6,5,Sólido
+Cs,Césio,55,6,1,Sólido
+Co,Cobalto,27,4,9,Sólido
+Hg,Mercúrio,80,6,12,Líquido
+Br,Bromo,35,4,17,Líquido
+H,Hidrogênio,1,1,1,Gás
+Ne,Neon,10,2,18,Gás
+Pd,Paládio,46,5,10,Sólido
+Ca,Cálcio,20,4,2,Sólido
+Ir,Irídio,77,6,9,Sólido

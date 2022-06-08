@@ -32,7 +32,6 @@ while True:
     else:
         print('Não encontramos nenhuma informação relacionada a esse dado')
 
-
 # Pergunta para o usuário se deseja fazer outra pesquisa
     while True:
         cont = input('Deseja fazer outra pesquisa? \n1 <- Sim\n2 <- Não\n==> ')
